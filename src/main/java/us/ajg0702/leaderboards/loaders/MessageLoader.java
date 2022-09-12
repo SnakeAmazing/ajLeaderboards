@@ -16,6 +16,15 @@ public class MessageLoader {
                             "&7&m                   "
                 ),
 
+                "gui.top.default", Arrays.asList(
+                        "&7",
+                        "    &e{VALUE} {VALUENAME}",
+                        "&7"
+                ),
+
+                "gui.top.name", "Tops",
+                "gui.top.item-name", "&6{NAME} &7- &eTop #{POSITION}",
+
                 "formatted.k", "k",
                 "formatted.m", "m",
                 "formatted.t", "t",
